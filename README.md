@@ -22,8 +22,8 @@
 ```txt
 https://raw.githubusercontent.com/eason-woong/moviepilot-help/main/words/common.txt
 https://raw.githubusercontent.com/eason-woong/moviepilot-help/main/words/movie.txt
-https://raw.githubusercontent.com/eason-woong/moviepilot-help/main/words/anime.txt
 https://raw.githubusercontent.com/eason-woong/moviepilot-help/main/words/series.txt
+https://raw.githubusercontent.com/eason-woong/moviepilot-help/main/words/anime.txt
 ```
 
 ### 自定义识别词规则参考
