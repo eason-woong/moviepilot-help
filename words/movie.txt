@@ -1,0 +1,46 @@
+
+#
+# 动画电影
+#
+
+# 我们仍未知道那天所看见的花的名字 (2013) {tmdbid=255413}
+# AnoHana the Movie-[1080p][JP.BD.Remux][lolice-mix]
+AnoHana the Movie => {[tmdbid=255413;type=movie]}
+#
+# 进击的巨人 ~觉醒的咆哮~ (2018) {tmdbid=492999}
+# Shingeki no Kyojin Season 2 Kakusei no Houkou-[1080p][JP.BD.Remux][788-mix].mkv
+Shingeki no Kyojin Season 2 Kakusei no Houkou- => {[tmdbid=492999;type=movie]}.7³ACG@OurBits
+#
+# 鬼灭之刃 无限列车篇 (2020) {tmdbid=635302}
+# Kimetsu no Yaiba Mugen Ressha Hen-[1080p][BDRemux][cht+chs+jpn+en][788-Remux].mkv
+Kimetsu no Yaiba Mugen Ressha Hen- => {[tmdbid=635302;type=movie]}.7³ACG@OurBits
+#
+# 机动战士高达
+# 机动战士高达00剧场版：先驱者的觉醒 (2010) {tmdbid=37048} // https://www.themoviedb.org/movie/37048
+#
+# 华语电影
+#
+
+# 周杰伦：世界巡回演唱会 (2007) {tmdbid=472306}
+# 周杰伦2007世界巡回演唱会4K60帧收藏版
+周杰伦2007世界巡回演唱会 => {[tmdbid=472306;type=movie]}
+#
+# 出走的决心 (2024) {tmdbid=1324509}
+# Like.A.Rolling.Stone.2024.2160p.WEB-DL.H265.DV.DTS5.1-CHDWEB
+Like.A.Rolling.Stone.2024 => {[tmdbid=1324509;type=movie]}
+#
+# 飞来峰 (2024) {tmdbid=1371012}
+# 飞来峰.Fei.Lai.Feng.S01E01.2024.4320p.WEB-DL.H265.AAC-HHWEB
+飞来峰 => {[tmdbid=1371012;type=movie]}
+
+#
+# 日韩电影
+#
+
+#
+# 英美电影
+#
+
+# 西班牙城堡 (2008) {tmdbid=58687}
+# Un.chateau.en.Espagne.AKA.My.Very.Best.Friend.2007.DVDRip.DD5.1.x264
+Un.chateau.en.Espagne => {[tmdbid=58687;type=movie]}
