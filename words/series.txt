@@ -34,6 +34,11 @@ Ghosts.S02E07 => 古宅老友记.Ghosts.S00E01
 Ghosts.S03E07 => 古宅老友记.Ghosts.S00E02
 Ghosts.S04E07 => 古宅老友记.Ghosts.S00E03
 Ghosts.S05E07 => 古宅老友记.Ghosts.S00E04
+# 东京大饭店 (2019) {tmdbid=95718}
+# Grand.Maison.Tokyo.Extra.S01E01.2019.1080p.BluRay.x265.10bit.FLAC.MNHD-FRDS
+Grand.Maison.Tokyo.Extra => {[tmdbid=203516;type=tv]}
+# 东京大饭店特别篇.Grande.Maison.Tokyo.Special.Article.S01E01.2024.1080p.Friday.WEB-DL.DDP2.0.H264-HDSWEB
+Grande.Maison.Tokyo.Special.Article.S01E01 => {[tmdbid=95718;type=tv]}.S00E01
 
 #
 # 日韩剧
