@@ -92,64 +92,33 @@ Mobile.Suit.Gundam.Unicorn.RE0096.S01E(\d*) => {[tmdbid=67524;type=tv]}.S01E\1
 # 团子大家族2.Clannad.S02E00.2008.1080p.WEB-DL.H264.AAC-ADWeb
 团子大家族2.Clannad.S02E00 => 团子大家族2.Clannad.S00E03
 #
-# 未闻花名 (2011) {tmdbid=39434} // https://www.themoviedb.org/tv/39434
-# AnoHana S01E01-[1080p][JP.BD.Remux][lolice-mix]
-AnoHana S(\d*)E(\d*)- => 未闻花名.Anohana.2011.S\1E\2
-#
 # 进击的巨人 (2013) {tmdbid=1429} // https://www.themoviedb.org/tv/1429
-# S01 Shingeki no Kyojin S01E01-[1080p][JP.BD.Remux][788-mix]
-# S02 Shingeki no Kyojin S02E01-[1080p][JP.BD.Remux][788-mix]
-# S03 Shingeki no Kyojin S03E01-[1080p][JP.BD.Remux][788-mix]
-# S04P1 Shingeki no Kyojin S04E01-[1080p][JP.BD.Remux][lolice-mix]
-# S04P2 Shingeki no Kyojin S04E17-[1080p][JP.BD.Remux][lolice-mix]
-Shingeki no Kyojin S(\d*)E(\d*)- => 进击的巨人.Attack.on.Titan.2013.S\1E\2
-进击的巨人.Attack.on.Titan.2013.S00E(0[1-5]) => 进击的巨人.Attack.on.Titan.2013.S00E\1 && S00E <> - >> EP+1
-进击的巨人.Attack.on.Titan.2013.S00E(0[6-8]) => 进击的巨人.Attack.on.Titan.2013.S00E\1 && S00E <> - >> EP+2
-进击的巨人.Attack.on.Titan.2013.S00E09 => 进击的巨人.Attack.on.Titan.2013.S00E12
-进击的巨人.Attack.on.Titan.2013.S00E10 => 进击的巨人.Attack.on.Titan.2013.S00E07
-进击的巨人.Attack.on.Titan.2013.S00E(1[1-7]) => 进击的巨人.Attack.on.Titan.2013.S00E\1 && S00E <> - >> EP+2
-#
-# 可塑性记忆 (2015) {tmdbid=62450} // https://www.themoviedb.org/tv/62450
-# Plastic Memories S01E01 (BDRemux 1920x1080 AVC FLAC)
-Plastic Memories S(\d*)E(\d*) => 可塑性记忆.Plastic.Memories.2015.S\1E\2
+# Attack.on.Titan.OADE01.2013.1080p.BluRay.x265.10bit.FLAC.2.0-ADE
+Attack.on.Titan.S00EE01 => 进击的巨人.Attack.on.Titan.2013.S00E07
+Attack.on.Titan.S00EE(0[2-8]) => 进击的巨人.Attack.on.Titan.2013.S00E\1 && S00E <> 1080p >> EP+11
+# Attack.on.Titan.S04E29-31.2020.1080p.BluRay.x265.10bit.FLAC.2.0.2Audio-ADE
+Attack.on.Titan.S04E29-31 => 进击的巨人.Attack.on.Titan.2013.S00E36
+Attack.on.Titan.S04E32-35 => 进击的巨人.Attack.on.Titan.2013.S00E37
 #
 # 月色真美 (2017) {tmdbid=70880} // https://www.themoviedb.org/tv/70880
-# Tsuki ga Kirei S01E01-[1080p][JP.BD.Remux][lolice-EC]
+# Tsuki ga Kirei S01E01-[1080p][BDRIP][x265.FLAC]
 Tsuki ga Kirei S(\d*)E(\d*)- => 月色真美.Tsuki.ga.Kirei.2017.S\1E\2
 #
-# 鬼灭之刃 (2019) {tmdbid=85937} // https://www.themoviedb.org/tv/85937
-# S01 Kimetsu no Yaiba S01E01-[1080p][BDRemux][cht+chs][788-Remux]
-# S03 Kimetsu no Yaiba S03E01-[1080p][JP.BD.Remux][lolice-mix]
-Kimetsu no Yaiba S(\d*)E(\d*)- => 鬼灭之刃.Kimetsu.no.Yaiba.2019.S\1E\2
-# S02 Demon Slayer Kimetsu no Yaiba S02E01-[2021][1080p][USA.BD.Remux]
-Demon Slayer Kimetsu no Yaiba S(\d*)E(\d*)- => 鬼灭之刃.Kimetsu.no.Yaiba.2019.S\1E\2
-# S04 Kimetsu no Yaiba Katanakaji no Sato Hen S04E01-[1080p][JP.BD.Remux]
-Kimetsu no Yaiba Katanakaji no Sato Hen S(\d*)E(\d*)- => 鬼灭之刃.Kimetsu.no.Yaiba.2019.S\1E\2
-# S05 To Defeat Muzan Kibutsuji S01E01-[1080p][JP.BD.Remux]
-To Defeat Muzan Kibutsuji S01E(\d*)- => 鬼灭之刃.Kimetsu.no.Yaiba.2019.S05E\1
-#
-# 异度侵入 (2020) {tmdbid=92602} // https://www.themoviedb.org/tv/92602
-# ID INVADED S01E01 (BDRemux 1920x1080 AVC FLAC)
-ID INVADED S(\d*)E(\d*) => 异度侵入.ID.INVADED.2020.S\1E\2
-#
 # 奇巧计程车 (2021) {tmdbid=116727} // https://www.themoviedb.org/tv/116727
-# ODD TAXI S01E01-[1080p][JP.BD.Remux][lolice-mix]
+# ODD TAXI S01E01-[1080p][BDRIP][x265.FLAC]
 ODD TAXI S(\d*)E(\d*)- => 奇巧计程车.ODD.TAXI.2021.S\1E\2
 #
-# 无职转生 (2021) {tmdbid=94664} // https://www.themoviedb.org/tv/94664
-# S01 Mushoku Tensei S01E01-[1080p][JP.BD.Remux][lolice-mix]
-Mushoku Tensei S01E(\d*)- => 无职转生.Mushoku.Tensei.2021.S01E\1
-无职转生.Mushoku.Tensei.2021.S01E24 => 无职转生.Mushoku.Tensei.2021.S00E01
-# S02 Mushoku Tensei Isekai Ittara Honki Dasu S02E01-[1080p][JP.BD.Remux]
-Mushoku Tensei Isekai Ittara Honki Dasu S(\d*)E(\d*)- => 无职转生.Mushoku.Tensei.2021.S\1E\2
+# 呆萌酷男孩 (2022) {tmdbid=198170} // https://www.themoviedb.org/tv/198170
+# Cool Doji Danshi S01E01-[1080p][BDRIP][x265.FLAC]
+Cool Doji Danshi S(\d*)E(\d*)- => 呆萌酷男孩.Cool.Doji.Danshi.2022.S\1E\2
+#
+# 卡罗尔与星期二 (2019) {tmdbid=83962} // https://www.themoviedb.org/tv/83962
+# [Nekomoe kissaten&VCB-Studio] Carole & Tuesday [01][Ma10p_1080p][x265_flac]
+Carole & Tuesday => 卡罗尔与星期二.Carol.and.Tuesday.2019.S01.BluRay
 #
 # 漂流少年 (2021) {tmdbid=124396} // https://www.themoviedb.org/tv/124396
 # [XKsub&SweetSub&VCB-Studio] Sonny Boy [01][Ma10p_1080p][x265_flac]
 Sonny Boy => 漂流少年.Sonny.Boy.2021.S01.BluRay
-#
-# 呆萌酷男孩 (2022) {tmdbid=198170} // https://www.themoviedb.org/tv/198170
-# Cool Doji Danshi S01E01-[1080p][JP.BD.Remux]
-Cool Doji Danshi S(\d*)E(\d*)- => 呆萌酷男孩.Cool.Doji.Danshi.2022.S\1E\2
 
 #
 # 国漫

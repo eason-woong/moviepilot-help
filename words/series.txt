@@ -50,6 +50,10 @@ Dragon.Zakura.2005.EP(0[1-9]|1[0-1]) => 龙樱.Dragon.Zakura.2005.S01E\1
 # Dragon.Zakura.2021.EP01.1080p.BluRay.x265.10bit.FLAC.MNHD-FRDS
 Dragon.Zakura.2021.EP(0[1-9]|10) => 龙樱.Dragon.Zakura.2005.S02E\1
 #
+# 律政英雄 (2001) {tmdbid=1454} // https://www.themoviedb.org/tv/1454
+# HERO.2001.SPE01.2001.1080p.VIU.WEB-DL.H264.AAC-HHWEB
+HERO.2001.SPE01 => 律政英雄.HERO.2001.S00E01
+#
 # 半泽直树 (2013) {tmdbid=55925} // https://www.themoviedb.org/tv/55925
 # Hanzawa.Naoki.S02E00.1080p.BluRay.x265.10bit.FLAC.MNHD-FRDS
 Hanzawa.Naoki.S02E00 => 半泽直树.Hanzawa.Naoki.S00E01
