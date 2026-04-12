@@ -33,7 +33,9 @@ Ghosts.S05E07 => 古宅老友记.Ghosts.S00E04
 ###-----------------------------------###
 
 # 律政英雄 (2001) {tmdbid=1454} // https://www.themoviedb.org/tv/1454
-HERO.2001.SPE01 => {[tmdbid=1454;type=tv]}.S00E01
+HERO.SP => {[tmdbid=1454;type=tv]}.S00E01
+Hero.2007 => {[tmdbid=1454;type=tv]}.S00E02
+Hero.2015 => {[tmdbid=1454;type=tv]}.S00E03
 #
 # 龙樱 (2005) {tmdbid=31816} // https://www.themoviedb.org/tv/31816
 Dragon.Zakura.2005.EP(0[1-9]|1[0-1]) => {[tmdbid=31816;type=tv;s=1]}.E\1
