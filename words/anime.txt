@@ -14,7 +14,7 @@ Legend.Of.The.Galactic.Heroes.Die.Neue.These.Stellar.War.S02E(\d*) => {[tmdbid=7
 Ginga.Eiyuu.Densetsu.Die.Neue.These.S0(3|4)E(\d*) => {[tmdbid=74018;type=tv]}.S\1E\2
 #
 # 名侦探柯南 (1996) {tmdbid=30983} // https://www.themoviedb.org/tv/30983
-Detective.Conan.S01 <> 1996 >> EP-58
+Detective.Conan.S01 <> 1996 >> EP-59
 #
 # 航海王 (1999) {tmdbid=37854} // https://www.themoviedb.org/tv/37854
 # S00E33 ONE.PIECE.FAN.LETTER.S01E01.2024.1080p.Viu.WEB-DL.H264.AAC-ADWeb
@@ -59,8 +59,10 @@ One.Piece.S01E0(?=(80[4-9]|8[1-6][0-9]|87[0-7])) => 海贼王.One.Piece.1999.S19
 One.Piece.S01E0(?=(87[8-9]|88[0-9]|89[0-1])) => 海贼王.One.Piece.1999.S20E
 # S21 E892-1088 和之国篇
 One.Piece.S01E(?=(089[2-9]|09[0-9][0-9]|10[0-7][0-9]|108[0-8])) => 海贼王.One.Piece.1999.S21E
-# S22 E1089-1199 蛋头岛篇
-One.Piece.S01E(?=(1089|109[0-9]|11[0-9][0-9])) => 海贼王.One.Piece.1999.S22E
+# S22 E1089-1155 蛋头岛篇
+One.Piece.S01E(?=(1089|109[0-9]|11[0-4][0-9]|115[0-5])) => 海贼王.One.Piece.1999.S22E
+# S23 E1156-1300 艾尔巴夫篇
+One.Piece.S01E(?=(115[6-9]|11[6-9][0-9]|12[0-9][0-9]|1300)) => 海贼王.One.Piece.1999.S23E
 #
 # 数码宝贝：合体战争 (2010) {tmdbid=37851} // https://www.themoviedb.org/tv/37851
 Digimon.Xros.Wars.S01E(?=(5[5-9]|[6-7][0-9])) => Digimon.Xros.Wars.S02E && S02E <> 2010 >> EP-54
@@ -104,20 +106,11 @@ Frieren.Beyond.Journey's.End.S02E(\d*) => {[tmdbid=209867;type=tv]}.S01E\1 && S0
 # 月色真美 (2017) {tmdbid=70880} // https://www.themoviedb.org/tv/70880
 Tsuki ga Kirei S(\d*)E(\d*)- => 月色真美.Tsuki.ga.Kirei.2017.S\1E\2
 #
-# 奇巧计程车 (2021) {tmdbid=116727} // https://www.themoviedb.org/tv/116727
-ODD TAXI S(\d*)E(\d*)- => 奇巧计程车.ODD.TAXI.2021.S\1E\2
-#
 # 呆萌酷男孩 (2022) {tmdbid=198170} // https://www.themoviedb.org/tv/198170
 Cool Doji Danshi S(\d*)E(\d*)- => 呆萌酷男孩.Cool.Doji.Danshi.2022.S\1E\2
 #
 # 卡罗尔与星期二 (2019) {tmdbid=83962} // https://www.themoviedb.org/tv/83962
 Carole & Tuesday => 卡罗尔与星期二.Carol.and.Tuesday.2019.S01.BluRay
-#
-# 漂流少年 (2021) {tmdbid=124396} // https://www.themoviedb.org/tv/124396
-Sonny Boy => 漂流少年.Sonny.Boy.2021.S01.BluRay
-#
-# 黑社会的超能力女儿 (2018) {tmdbid=76758} // https://www.themoviedb.org/tv/76758
-Hinamatsuri => 黑社会的超能力女儿.Hinamatsuri.2018.S01.BluRay
 
 ###-----------------------------------###
 #                国漫                   #
