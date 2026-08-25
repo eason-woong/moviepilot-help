@@ -14,7 +14,7 @@ Legend.Of.The.Galactic.Heroes.Die.Neue.These.Stellar.War.S02E(\d*) => {[tmdbid=7
 Ginga.Eiyuu.Densetsu.Die.Neue.These.S0(3|4)E(\d*) => {[tmdbid=74018;type=tv]}.S\1E\2
 #
 # 名侦探柯南 (1996) {tmdbid=30983} // https://www.themoviedb.org/tv/30983
-Detective.Conan.S01 <> 1996 >> EP-59
+Detective.Conan.S01 <> 1996 >> EP-60
 #
 # 航海王 (1999) {tmdbid=37854} // https://www.themoviedb.org/tv/37854
 # S00E33 ONE.PIECE.FAN.LETTER.S01E01.2024.1080p.Viu.WEB-DL.H264.AAC-ADWeb

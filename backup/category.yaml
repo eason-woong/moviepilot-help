@@ -8,6 +8,7 @@
 #    - `production_countries` 国家或地区（电影）、`origin_country` 国家或地区（电视剧），具体含义参考下方字典。
 #    - `genre_ids` 内容类型，具体含义参考下方字典。
 #    - themoviedb 详情API返回的其它一级字段，API参考：[电影](https://developer.themoviedb.org/reference/movie-details)、[电视剧](https://developer.themoviedb.org/reference/tv-series-details)。
+# 4. !条件值表示排除该值，一般用于将分类中的某子类单独分类的情况，同时不用考虑分类先后顺序
 
 
 # 配置电影的分类策略
